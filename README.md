@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuh25772
+- 👋 Hi, I’m Fariha!
 - I am currently a Computer Science student who is trying to build small projects and hopefully learn how to expand and make a bigger one!
 - Current languages known: Java, Python, C, JavaScript, and React
 
