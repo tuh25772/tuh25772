@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Fariha!
-- I am currently a Computer Science student who is trying to build small projects and hopefully learn how to expand and make a bigger one!
-- Current languages known: Java, Python, C, JavaScript, and React
+## Hi there! I am Fariha!! 💕
 
-<!---
-tuh25772/tuh25772 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+- Temple University 📚
+- Bachelor's in Computer Science
+- Expected Graduation: December 2024
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fariha-jahin) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ria.jay99)
+
