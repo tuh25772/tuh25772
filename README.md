@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=tuh25772&style=flat-square)
+
 ## Hi there! I am Fariha!! 💕
 
 ## Education
