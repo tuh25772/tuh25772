@@ -4,7 +4,7 @@
 
 ## Education
 - Temple University 📚
-- Bachelor's in Computer Science
+- Bachelor's in Computer Science and Mathematics
 - Expected Graduation: December 2024
 
 ## Socials
